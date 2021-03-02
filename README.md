@@ -6,3 +6,6 @@ I plan to continue trying new projects as they are a great practice for ML!
 
 2/27/21 update:
 currently working on a video version
+
+3/1/21 update:
+video works; need to learn how to train data for Suzy face
